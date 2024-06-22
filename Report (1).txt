@@ -1,0 +1,136 @@
+Process ID: P1
+Priority: 1
+Burst Time: 2
+Arrival Time: 0
+Start Time: 0
+Termination Time: 2
+Turn around Time: 2
+Waiting Time: 0
+Response Time: 0
+---------------
+Process ID: P2
+Priority: 1
+Burst Time: 3
+Arrival Time: 1
+Start Time: 11
+Termination Time: 14
+Turn around Time: 13
+Waiting Time: 10
+Response Time: 10
+---------------
+Process ID: P3
+Priority: 1
+Burst Time: 4
+Arrival Time: 0
+Start Time: 2
+Termination Time: 25
+Turn around Time: 25
+Waiting Time: 21
+Response Time: 2
+---------------
+Process ID: P4
+Priority: 1
+Burst Time: 3
+Arrival Time: 1
+Start Time: 14
+Termination Time: 17
+Turn around Time: 16
+Waiting Time: 13
+Response Time: 13
+---------------
+Process ID: P5
+Priority: 1
+Burst Time: 4
+Arrival Time: 0
+Start Time: 5
+Termination Time: 26
+Turn around Time: 26
+Waiting Time: 22
+Response Time: 5
+---------------
+Process ID: P6
+Priority: 1
+Burst Time: 2
+Arrival Time: 1
+Start Time: 17
+Termination Time: 19
+Turn around Time: 18
+Waiting Time: 16
+Response Time: 16
+---------------
+Process ID: P7
+Priority: 1
+Burst Time: 3
+Arrival Time: 2
+Start Time: 19
+Termination Time: 22
+Turn around Time: 20
+Waiting Time: 17
+Response Time: 17
+---------------
+Process ID: P8
+Priority: 2
+Burst Time: 4
+Arrival Time: 0
+Start Time: 37
+Termination Time: 41
+Turn around Time: 41
+Waiting Time: 37
+Response Time: 37
+---------------
+Process ID: P9
+Priority: 2
+Burst Time: 2
+Arrival Time: 1
+Start Time: 29
+Termination Time: 31
+Turn around Time: 30
+Waiting Time: 28
+Response Time: 28
+---------------
+Process ID: P10
+Priority: 2
+Burst Time: 3
+Arrival Time: 0
+Start Time: 31
+Termination Time: 34
+Turn around Time: 34
+Waiting Time: 31
+Response Time: 31
+---------------
+Process ID: P11
+Priority: 1
+Burst Time: 6
+Arrival Time: 0
+Start Time: 8
+Termination Time: 29
+Turn around Time: 29
+Waiting Time: 23
+Response Time: 8
+---------------
+Process ID: P12
+Priority: 2
+Burst Time: 3
+Arrival Time: 2
+Start Time: 34
+Termination Time: 37
+Turn around Time: 35
+Waiting Time: 32
+Response Time: 32
+---------------
+Process ID: P13
+Priority: 1
+Burst Time: 2
+Arrival Time: 4
+Start Time: 22
+Termination Time: 24
+Turn around Time: 20
+Waiting Time: 18
+Response Time: 18
+---------------
+Process order chart: [ P1 | P3 | P5 | P11 | P2 | P4 | P6 | P7 | P13 | P3 | P5 | P11 | P9 | P10 | P12 | P8 ]
+---------------
+Average turnaround time : 23.76923076923077
+Average waiting time    : 20.615384615384617
+Average response time   : 16.692307692307693
+---------------
